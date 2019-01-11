@@ -1,0 +1,7 @@
+C:\Users\ИргалиевЕ\source\repos\Control\bin\Debug\Control.exe.config
+C:\Users\ИргалиевЕ\source\repos\Control\bin\Debug\Control.exe
+C:\Users\ИргалиевЕ\source\repos\Control\bin\Debug\Control.pdb
+C:\Users\ИргалиевЕ\source\repos\Control\obj\Debug\Control.csprojAssemblyReference.cache
+C:\Users\ИргалиевЕ\source\repos\Control\obj\Debug\Control.csproj.CoreCompileInputs.cache
+C:\Users\ИргалиевЕ\source\repos\Control\obj\Debug\Control.exe
+C:\Users\ИргалиевЕ\source\repos\Control\obj\Debug\Control.pdb
